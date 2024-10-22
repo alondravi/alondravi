@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/alondravi/alondravi/blob/main/Banner%para%Github.png" width="800"/>
+</div>
+
 # 👋 ¡Hola! Soy Alondra
 
 ### QA Engineer | Testing Manual & Automatizado
