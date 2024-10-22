@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/alondravi/alondravi/blob/main/Banner%para%Github.png" width="800"/>
+  <img decoding="async" src="https://github.com/alondravi/alondravi/blob/main/Banner para GitHub.png" width="800"/>
 </div>
 
 # 👋 ¡Hola! Soy Alondra
