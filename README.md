@@ -2,7 +2,7 @@
   <img decoding="async" src="https://github.com/alondravi/alondravi/blob/main/images for github/Banner para GitHub.png" width="800"/>
 </div>
 
-[![](https://github.com/alondravi/alondravi/images_for_github/linkedin.png)](https://www.linkedin.com/in/alondravillagrana/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alondravillagrana/)
 
 # 👋 ¡Qué onda! Soy Alondra
 
