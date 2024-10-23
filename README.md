@@ -31,8 +31,8 @@ A través de mi formación y proyectos, he aprendido a realizar **pruebas manual
 [![PyCharm](https://img.shields.io/badge/PyCharm-C1E1C1?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) &nbsp;
 [![Python](https://img.shields.io/badge/Python-BDB2FF?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) &nbsp;
 [![Android Studio](https://img.shields.io/badge/Android_Studio-FDE2E2?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio) &nbsp;
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Postman](https://img.shields.io/badge/Postman-FFB2B2?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/) &nbsp;
+[![Selenium](https://img.shields.io/badge/Selenium-8FEDD0?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
 ---
 
