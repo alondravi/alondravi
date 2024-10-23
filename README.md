@@ -51,4 +51,8 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado durante 
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alondravi&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000" alt="GitHub Streak" width="500" height="200">
+  </a>
+</p>
