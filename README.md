@@ -18,7 +18,7 @@
 
 ## 🌚 Sobre mí
 
-Soy un **QA Engineer en formación** que hizo una **transición desde el mundo de la administración** para seguir mi pasión por la tecnología y la calidad del software. Me encanta descubrir esos pequeños errores que pasan desapercibidos y ayudar a que los productos funcionen mejor para los usuarios finales.
+Soy una **QA Engineer en formación** que hizo una **transición desde el mundo de la administración** para seguir mi pasión por la tecnología y la calidad del software. Me encanta descubrir esos pequeños errores que pasan desapercibidos y ayudar a que los productos funcionen mejor para los usuarios finales.
 
 A través de mi formación y proyectos, he aprendido a realizar **pruebas manuales y automatizadas** con un enfoque en la mejora continua. Siempre buscando formas de hacer todo mejor.
 
