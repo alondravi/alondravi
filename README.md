@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# 👋 ¡Qué onda! Soy Alondra
+<h1 align="center">👋 ¡Qué onda! Soy Alondra</h1>
 
 ### QA Engineer | Testing Manual & Automatizado
 
@@ -49,7 +49,3 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado durante 
 2. **[Proyecto de Automatización con Selenium]** – Automatización de pruebas para una plataforma web.
 
 ---
-
-## 🌐 Conéctate conmigo
-
-- **LinkedIn**: [https://www.linkedin.com/in/alondravillagrana/](#)
