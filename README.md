@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/alondravi/alondravi/blob/main/images for github/Banner para GitHub.png" width="800"/>
 </div>
-[![LinkedIn](./images for github/linkedin.png)](https://www.linkedin.com/in/alondravillagrana/)
+
+[![](images for github/linkedin.png)](https://www.linkedin.com/in/alondravillagrana/)
+
 # 👋 ¡Qué onda! Soy Alondra
 
 ### QA Engineer | Testing Manual & Automatizado
