@@ -2,7 +2,7 @@
   <img decoding="async" src="https://github.com/alondravi/alondravi/blob/main/images for github/Banner para GitHub.png" width="800"/>
 </div>
 
-[![](images for github/linkedin.png)](https://www.linkedin.com/in/alondravillagrana/)
+[![](https://github.com/alondravi/alondravi/images for github/linkedin.png)](https://www.linkedin.com/in/alondravillagrana/)
 
 # 👋 ¡Qué onda! Soy Alondra
 
