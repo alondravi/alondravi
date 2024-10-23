@@ -2,11 +2,13 @@
   <img decoding="async" src="https://github.com/alondravi/alondravi/blob/main/images for github/Banner para GitHub.png" width="800"/>
 </div>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/alondravillagrana/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="(https://img.shields.io/badge/LinkedIn-e6b9a6?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn">
   </a>
 </p>
+
 
 <h1 align="center">👋 ¡Qué onda! Soy Alondra</h1>
 
@@ -20,7 +22,6 @@ Soy un **QA Engineer en formación** que hizo una **transición desde el mundo d
 
 A través de mi formación y proyectos, he aprendido a realizar **pruebas manuales y automatizadas** con un enfoque en la mejora continua. Siempre buscando formas de hacer todo mejor.
 
-Actualmente, estoy perfeccionando mis habilidades en automatización y explorando nuevas herramientas para seguir creciendo en el mundo del QA.
 ---
 
 ## 🔧 Herramientas y Tecnologías
