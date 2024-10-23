@@ -26,13 +26,13 @@ A través de mi formación y proyectos, he aprendido a realizar **pruebas manual
 
 ## 🔧 Herramientas y Tecnologías
 
-[![SQL](https://img.shields.io/badge/SQL-FFD1DC?style=flat-square&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/) &nbsp;
-[![Figma](https://img.shields.io/badge/Figma-AEE6E6?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/) &nbsp;
-[![PyCharm](https://img.shields.io/badge/PyCharm-C1E1C1?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) &nbsp;
-[![Python](https://img.shields.io/badge/Python-BDB2FF?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) &nbsp;
-[![Android Studio](https://img.shields.io/badge/Android_Studio-FDE2E2?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio) &nbsp;
-[![Postman](https://img.shields.io/badge/Postman-FFB2B2?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/) &nbsp;
-[![Selenium](https://img.shields.io/badge/Selenium-8FEDD0?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![SQL](https://img.shields.io/badge/SQL-FFD1DC?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/) &nbsp;
+[![Figma](https://img.shields.io/badge/Figma-AEE6E6?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) &nbsp;
+[![PyCharm](https://img.shields.io/badge/PyCharm-C1E1C1?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) &nbsp;
+[![Python](https://img.shields.io/badge/Python-BDB2FF?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;
+[![Android Studio](https://img.shields.io/badge/Android_Studio-FDE2E2?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio) &nbsp;
+[![Postman](https://img.shields.io/badge/Postman-FFB2B2?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) &nbsp;
+[![Selenium](https://img.shields.io/badge/Selenium-8FEDD0?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
 ---
 
