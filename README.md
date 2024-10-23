@@ -50,3 +50,5 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado durante 
 2. **[Proyecto de Automatización con Selenium]** – Automatización de pruebas para una plataforma web.
 
 ---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alondravi&theme=dark&background=000000)](https://git.io/streak-stats)
