@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alondravillagrana/">
-    <img src="(https://img.shields.io/badge/LinkedIn-e6b9a6?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-e6b9a6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
