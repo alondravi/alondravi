@@ -49,3 +49,5 @@ A través de mi formación y proyectos, he aprendido a realizar **pruebas manual
     <img src="http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000" alt="GitHub Streak" width="500" height="200">
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alondravi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
