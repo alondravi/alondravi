@@ -1,3 +1,8 @@
+<h1 align="center">👋 ¡Qué onda! Soy Alondra</h1>
+
+### QA Engineer | Testing Manual & Automatizado
+
+
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/alondravi/alondravi/blob/main/images for github/Banner para GitHub.png" width="800"/>
 </div>
@@ -9,10 +14,6 @@
   </a>
 </p>
 
-
-<h1 align="center">👋 ¡Qué onda! Soy Alondra</h1>
-
-### QA Engineer | Testing Manual & Automatizado
 
 ---
 
